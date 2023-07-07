@@ -17,12 +17,12 @@ public class Strings {
         System.out.println(firstName);
         //this will now print out "Johnathon"
 
-        System.out.println(firstName + "is " + 18 + " years old");
+        System.out.println(firstName + " is " + 18 + " years old");
         //this will print out "Johnathon is 18 years old"
 
         int nameLength = firstName.length();
-        System.out.println(nameLength);
-        System.out.println(firstName.charAt(0));
+        System.out.println("length of name: " + nameLength);
+        System.out.println("First character: " + firstName.charAt(0));
         //this will print out the first letter of the name, which is "J"
         System.out.println(firstName.toUpperCase());
         //this will print out "JOHNATHON", but the variable firstName will still be "Johnathon"

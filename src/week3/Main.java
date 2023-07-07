@@ -1,4 +1,3 @@
-package week3;
 public class Main {
     // Example 1: Function that adds two integers
     public static int add(int a, int b) {
