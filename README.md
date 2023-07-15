@@ -1,6 +1,6 @@
 # FTC Preseason Code
 
-2023 Preseason Code for FTC (Team Name TBD)
+2023 Preseason Code for FTC Team Mech-A-Mind
 
 ## Table of Contents
 
