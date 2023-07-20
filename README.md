@@ -19,3 +19,9 @@
   - Integer, Double, and String Data Types
   - Using the built-in Math class
   - Creating functions to work with numbers
+- Week 5 - View the [slide deck](https://docs.google.com/presentation/d/15BhDc68wlTPyZEOH92Jtjrx_89rtcMmD6gK-2lV8g5M/edit?usp=sharing), jump to the [source code](https://github.com/ftc-mech-a-mind/preseason-2023/tree/master/src/week5), or view the [homework assignment](https://docs.google.com/document/d/1GbHiVFphP-D7n42kyax3jMznaSIivktZM0YKPr8N95M/edit?usp=sharing)
+  - Java crash course video review
+  - Constructors and objects using the Dog class
+  - Methods, conditionals, Greater/less/equal operators
+  - For loops and while loops
+  - Assigned homework - view the [starter code](https://github.com/FTC-Mech-A-Mind/week5-startercode).
