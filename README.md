@@ -15,7 +15,7 @@
 - Week 3
   - Finish getting set up with Visual Studio Code and the Java Runtime Environment (JRE)
   - At home: Request and accept invitations to this GitHub organization.
-- Week 4 - View the [slide deck](https://docs.google.com/presentation/d/1e9itmYeGhvFd5GAmDtI6j2ZiMRcQsltC3zLCzV6J850/edit?usp=sharing) or jump to the [source code](https://github.com/jasonballinger/ftc-preseason-2023/tree/master/src/week3)
+- Week 4 - View the [slide deck](https://docs.google.com/presentation/d/1e9itmYeGhvFd5GAmDtI6j2ZiMRcQsltC3zLCzV6J850/edit?usp=sharing) or jump to the [source code](https://github.com/ftc-mech-a-mind/preseason-2023/tree/master/src/week4)
   - Integer, Double, and String Data Types
   - Using the built-in Math class
   - Creating functions to work with numbers
