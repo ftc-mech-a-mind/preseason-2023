@@ -25,3 +25,7 @@
   - Methods, conditionals, Greater/less/equal operators
   - For loops and while loops
   - Assigned homework - view the [starter code](https://github.com/FTC-Mech-A-Mind/week5-startercode).
+- Week 6 - [Preseason Controller Repository](https://github.com/FTC-Mech-A-Mind/preseason-controller)
+  - Get setup with Android Studio
+  - Create and Run an Op Mode
+  - [FTC Android Studio Tutorial](https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html)
